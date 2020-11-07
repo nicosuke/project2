@@ -1,0 +1,12 @@
+.pollo {
+    color: yellow;
+    text-align:center;
+}
+.building {
+    margin-top: 50px;
+  width: 350px;
+  height: 350px;
+  border-radius: 90%;
+  border: 7px solid white;
+  transition: all .5s;
+}
