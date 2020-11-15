@@ -1,6 +1,7 @@
 .pollo {
     color: rgb(94, 160, 9);
     text-align:center;
+    font-size:200%;
 }
 .building {
     margin-top: 30px;
@@ -24,4 +25,7 @@ h3{
   background-color: rgb(245, 241, 240);
   max-width: 500px;
   border-radius: 12px;
+}
+.lista {
+  font-size:200%;
 }
