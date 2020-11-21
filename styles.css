@@ -57,7 +57,8 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('digital_globe11.jpg.jpg') no-repeat top center ;
+  background: url('img/digi.jpg') no-repeat top center;
+  
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -152,15 +153,7 @@ a.social {
   opacity: .4;
   transition: all .5s;
 }
-a.twitter {
-  background-image: url(images/twitter.svg);
-}
-a.linkedin {
-  background-image: url(images/linkedin.svg);
-}
-a.github {
-  background-image: url(images/github.svg);
-}
+
 a.social:hover {
   opacity: 1;
 }
